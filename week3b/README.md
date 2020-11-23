@@ -23,10 +23,10 @@ find the code on line 7 which starts the declaration of this new data type.
 
 ```C
 typedef struct
-    {
-        // TODO - Task #1
-    }
-    numberList;
+{
+    // TODO - Task #1
+}
+numberList;
 ```
 
 When we actually perform the filtering task, we will filter the results within
