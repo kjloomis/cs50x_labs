@@ -19,7 +19,7 @@ associated with the activities.
 While solutions are provided for each activity, but make a
 solid attempt before peeking at the solution code.
 
-### Contents
+### Contents:
 * [Week 1: Chat Bot](https://github.com/kjloomis/cs50x_labs/tree/main/week1)
 * [Week 2: Char Checker](https://github.com/kjloomis/cs50x_labs/tree/main/week2)
 

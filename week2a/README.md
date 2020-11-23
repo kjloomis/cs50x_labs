@@ -1,4 +1,4 @@
-# Week 2 - Char Checker
+# Week 2A - Char Checker
 
 Remember that each week you will be given a hands-on activity that should
 be done using pair  programming. This week you will be randomly assigned
@@ -39,7 +39,7 @@ output. Notice that there is a "1" (one) in place of the "l" (el) that you
 might expect to enter in "world" which accounts for the count of 1 number
 in the input.
 
-# Part II
+## Part II
 Since we want to run this program on a meaningful piece of text, we should
 add an additional input trap at the start of the program which prevents the
 user from entering some text which contains few or no characters. Check the
@@ -55,7 +55,7 @@ do
 while ( <condition> );
 ```
 
-# Part III
+## Part III
 Your teaching fellow will provide you with an additional text file which
 includes some text that you can use to test your program. Instead of typing
 in the text, you can instead redirect the text from your file into the program.
