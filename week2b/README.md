@@ -1,4 +1,5 @@
 # Week 2B - Scores
+
 Remember that each week you will be given a hands-on activity that should be
 done using pair  programming. This week you will be randomly assigned a
 partner from list of students in your section. Find your partner and use pair
