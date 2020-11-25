@@ -23,8 +23,9 @@ solid attempt before peeking at the solution code.
 * [Week 1: Chat Bot](https://github.com/kjloomis/cs50x_labs/tree/main/week1)
 * [Week 2A: Char Checker](https://github.com/kjloomis/cs50x_labs/tree/main/week2a)
 * [Week 2B: Scores](https://github.com/kjloomis/cs50x_labs/tree/main/week2b)
-* [Week 3A: Nearest Neighbor Deviation](https://github.com/kjloomis/cs50x_labs/tree/main/week3a)
-* [Week 3B: Filter](https://github.com/kjloomis/cs50x_labs/tree/main/week3b)
+* [Week 3: Nearest Neighbor Deviation](https://github.com/kjloomis/cs50x_labs/tree/main/week3)
+* [Week 4: Filter](https://github.com/kjloomis/cs50x_labs/tree/main/week4)
+* [Week 5: Family Tree](https://github.com/kjloomis/cs50x_labs/tree/main/week3b)
 
 All code presented here is for educational purposes only and does not knowingly
 contain any solutions to Psets, Exams, or other assignments for CS50 or CS50x.

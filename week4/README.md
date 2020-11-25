@@ -1,4 +1,4 @@
-# Week 3B - Filter
+# Week 4 - Filter
 
 Remember that each week you will be given a hands-on activity that should
 be done using pair programming. This week you will be randomly assigned a
@@ -14,7 +14,7 @@ array. You will be using some code idea that we saw in the past week and
 will be given a starting file ("filter.c") for this activity. Download the
 file using the following command in the terminal:
 ```
-wget https://github.com/kjloomis/cs50x_labs/blob/main/week3b/filter.c
+wget https://github.com/kjloomis/cs50x_labs/blob/main/week4/filter.c
 ```
 
 Remember to use the concepts that we learned from the last couple of

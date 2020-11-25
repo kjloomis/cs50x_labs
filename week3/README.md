@@ -1,4 +1,4 @@
-# Week 3A - Nearest Neighbor Deviation
+# Week 3 - Nearest Neighbor Deviation
 
 Remember that each week you will be given a hands-on activity that should be
 done using pair programming. This week you will be randomly assigned a partner
