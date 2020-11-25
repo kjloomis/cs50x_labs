@@ -1,4 +1,4 @@
-# CS50x Lecture Section Lab Repository
+# CS50x Section/Lab Repository
 This collection of code is created to complement CS50x Miami section series.
 This course is an adaption of adaption of [CS50](https://www.cs50.net),
 [Harvard University's](http://www.harvard.edu) introduction to the
