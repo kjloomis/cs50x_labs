@@ -11,7 +11,11 @@ Get some help from the Teaching Fellow if needed. - Ken Loomis
 Your task for this hands-on activity is to create a program which will
 filter some array so that only numbers of interest will remain in the
 array. You will be using some code idea that we saw in the past week and
-will be given a starting file ("filter.c") for this activity.
+will be given a starting file ("filter.c") for this activity. Download the
+file using the following command in the terminal:
+```
+wget https://github.com/kjloomis/cs50x_labs/blob/main/week3b/filter.c
+```
 
 Remember to use the concepts that we learned from the last couple of
 classes on how to use recursive functions and how to read data from a file.
