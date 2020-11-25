@@ -25,7 +25,7 @@ solid attempt before peeking at the solution code.
 * [Week 2B: Scores](https://github.com/kjloomis/cs50x_labs/tree/main/week2b)
 * [Week 3: Nearest Neighbor Deviation](https://github.com/kjloomis/cs50x_labs/tree/main/week3)
 * [Week 4: Filter](https://github.com/kjloomis/cs50x_labs/tree/main/week4)
-* [Week 5: Family Tree](https://github.com/kjloomis/cs50x_labs/tree/main/week3b)
+* [Week 5: Family Tree](https://github.com/kjloomis/cs50x_labs/tree/main/week5)
 
 All code presented here is for educational purposes only and does not knowingly
 contain any solutions to Psets, Exams, or other assignments for CS50 or CS50x.
