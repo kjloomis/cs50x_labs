@@ -1,9 +1,9 @@
 # CS50x Section/Lab Repository
 This collection of code is created to complement CS50x Miami section series.
-This course is an adaption of adaption of [CS50](https://www.cs50.net),
+This course is an adaptation of [CS50](https://www.cs50.net),
 [Harvard University's](http://www.harvard.edu) introduction to the
-intellectual enterprises of computer science, and the art of programming,
-for MDC students and the South Florida community. All credit for that
+intellectual enterprises of computer science and the art of programming,
+for MDC students and the South Florida community. All credit for
 Harvard's CS50 goes to [David Malan](https://cs.harvard.edu/malan/) and his
 team. It's a great introductory course to programming and provides breadth
 and depth without being too overwhelming. Check out
